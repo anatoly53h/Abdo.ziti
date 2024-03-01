@@ -14,5 +14,5 @@ handler.help = ['addowner']
 handler.tags = ['owner']
 handler.command = /^addowner$/i
 handler.owner = true
-handler.register = true
+
 export default handler
