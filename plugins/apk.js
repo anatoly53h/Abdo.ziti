@@ -18,5 +18,5 @@ handler.help = ["apk"]
 handler.tags = ["applications"]
 handler.command = ["apk"] 
 handler.register = true
-handler.premium = true
+
 export default handler;
