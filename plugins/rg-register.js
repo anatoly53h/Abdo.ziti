@@ -27,7 +27,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 ${sn}
 └──────────────
 
- *${usedPrefix}help* to see menu
+ *${usedPrefix}menu
 `.trim())
 }
 handler.help = ['reg'].map(v => v + ' <name.age>')
