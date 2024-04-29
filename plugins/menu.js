@@ -139,7 +139,7 @@ externalAdReply: {
 title: 'ALEXA BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/a2312acb56fba06896c40.jpg',
-sourceUrl: 'https://chat.whatsapp.com/Fk1mt0Ui4AV0KEA8Dt49Xz',
+sourceUrl: 'https://chat.whatsapp.com/HM8aagfDVUu044tjFq9zOI',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
